@@ -1,0 +1,10 @@
+D:\seatime\УрФУ\учебный план\C#\Wormhole\Wormhole\Wormhole\bin\Debug\Wormhole.exe.config
+D:\seatime\УрФУ\учебный план\C#\Wormhole\Wormhole\Wormhole\bin\Debug\Wormhole.exe
+D:\seatime\УрФУ\учебный план\C#\Wormhole\Wormhole\Wormhole\bin\Debug\Wormhole.pdb
+D:\seatime\УрФУ\учебный план\C#\Wormhole\Wormhole\Wormhole\obj\Debug\Wormhole.csprojAssemblyReference.cache
+D:\seatime\УрФУ\учебный план\C#\Wormhole\Wormhole\Wormhole\obj\Debug\Wormhole.Form1.resources
+D:\seatime\УрФУ\учебный план\C#\Wormhole\Wormhole\Wormhole\obj\Debug\Wormhole.Properties.Resources.resources
+D:\seatime\УрФУ\учебный план\C#\Wormhole\Wormhole\Wormhole\obj\Debug\Wormhole.csproj.GenerateResource.cache
+D:\seatime\УрФУ\учебный план\C#\Wormhole\Wormhole\Wormhole\obj\Debug\Wormhole.csproj.CoreCompileInputs.cache
+D:\seatime\УрФУ\учебный план\C#\Wormhole\Wormhole\Wormhole\obj\Debug\Wormhole.exe
+D:\seatime\УрФУ\учебный план\C#\Wormhole\Wormhole\Wormhole\obj\Debug\Wormhole.pdb
